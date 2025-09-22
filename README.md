@@ -35,23 +35,19 @@ Additionally, it provides an averaged light intensity reading over longer period
 
 ---
 
-## 🔧 Block Diagram / Simulation
+## 🔧 Falstad Simulation
 The project was simulated on **Falstad Circuit Simulator**.  
 
 ![Falstad Simulation](images/Circuit_Simulation.png)  
-
-*(Replace with actual image path in your repo)*  
 
 ---
 
 ## 🛠 Hardware Implementation
 Snapshots of the hardware prototype:  
 
-[Project Image 1](images/image_01.jpg)  
+![Project Image 1](images/image_01.jpg)  
 ![Project Image 2](images/image_02.jpg)  
-![Project Image 3](images/image_03.jpg)  
-
-*(Replace with actual images in your repo)*  
+![Project Image 3](images/image_03.jpg)    
 
 ---
 
@@ -69,7 +65,3 @@ Snapshots of the hardware prototype:
 - Averaged intensity monitoring for research/field data collection.  
 
 ---
-
-## ✍️ Authors
-- **[Your Name(s)]**  
-Semester 3 – Digital Signal Processing Project  
