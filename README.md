@@ -4,8 +4,7 @@
 This project implements an **Advanced Light Intensity Indicator (ALII)** using basic electronic components and Digital Signal Processing concepts.  
 The system monitors real-time light intensity, displays its level, and incorporates an averaging and delay mechanism to improve stability and reliability.  
 
-The core objective is to provide accurate light intensity readings while filtering out false triggers caused by sudden flashes (e.g., lightning).  
-Additionally, it provides an averaged light intensity reading over longer periods for better environmental monitoring.  
+The core objective is to provide accurate light intensity readings while filtering out false triggers caused by sudden flashes (e.g., lightning). Additionally, it provides an averaged light intensity reading over longer periods for better environmental monitoring.  
 
 ---
 
