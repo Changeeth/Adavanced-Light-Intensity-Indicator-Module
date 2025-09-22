@@ -38,7 +38,7 @@ Additionally, it provides an averaged light intensity reading over longer period
 ## 🔧 Block Diagram / Simulation
 The project was simulated on **Falstad Circuit Simulator**.  
 
-![Falstad Simulation](images/Circuit Simulation.png)  
+![Falstad Simulation](images/Circuit_Simulation.png)  
 
 *(Replace with actual image path in your repo)*  
 
@@ -47,9 +47,9 @@ The project was simulated on **Falstad Circuit Simulator**.
 ## 🛠 Hardware Implementation
 Snapshots of the hardware prototype:  
 
-[Project Image 1](images/image 01.jpg)  
-![Project Image 2](images/image 02.jpg)  
-![Project Image 3](images/image 03.jpg)  
+[Project Image 1](images/image_01.jpg)  
+![Project Image 2](images/image_02.jpg)  
+![Project Image 3](images/image_03.jpg)  
 
 *(Replace with actual images in your repo)*  
 
