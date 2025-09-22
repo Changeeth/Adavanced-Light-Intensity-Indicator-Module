@@ -46,8 +46,7 @@ The project was simulated on **Falstad Circuit Simulator**.
 Snapshots of the hardware prototype:  
 
 ![Project Image 1](images/image_01.jpg)  
-![Project Image 2](images/image_02.jpg)  
-![Project Image 3](images/image_03.jpg)    
+![Project Image 2](images/image_02.jpg)    
 
 ---
 
